@@ -7,7 +7,7 @@ A place to collect ideas around social risk and responsiblity related to online 
 
 # Original resources
 
-* Talk: Designing for Online Ethical Discourse
+* [Talk: Designing for Online Ethical Discourse](https://github.com/Aupajo/social-risk-and-responsibility/tree/master/talks/designing-for-ethical-online-discourse)
 
 # External resources
 

@@ -4,6 +4,11 @@ A place to collect ideas around social risk and responsiblity related to online 
 
 ---
 
+# Gameplan
+
+To build resources around the following:
+
+![](https://i.imgur.com/z9La0ii.png)
 
 # Original resources
 
